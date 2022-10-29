@@ -438,7 +438,7 @@ header {
 
 .card-gear {
   background: #000;
-  padding: 1.82;
+  padding: 1.82rem;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
